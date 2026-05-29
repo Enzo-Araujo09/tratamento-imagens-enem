@@ -1,5 +1,5 @@
 """
-Propósito: Dividir as questões concatenadas verticalmente pela faixa azul de início da questão
+Propósito: Dividir as questões concatenadas verticalmente pela faixa azul de início da questão ola
 Autor: Alexandre Nassar de Peder
 Data: 02/10/2025
 Comentário: atualizar as linhas 122 e 123
